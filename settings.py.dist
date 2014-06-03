@@ -210,7 +210,7 @@ OPERATING_SYSTEMS = {
     #    "osparams": {
     #        "img_id": "debian_base-7.0-x86_64",
     #        "img_format": "diskdump",
-    #        "img_passwd": "!",  # currently mandatory
+    #        "img_passwd": "!",  # some value required for snf-image <= 0.15
     #        "img_properties": {
     #            "OSFAMILY": "linux",
     #            "ROOT_PARTITION": "1",
